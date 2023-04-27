@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+<a href="https://app.daily.dev/sk_Manux"><img src="https://github.com/skManux/skManux/blob/main/devcard.svg" width="400" alt="Manuel's Dev Card"/></a>
+
 Let's introduce myself.\
 My real name is **Manuel**. I'm **Italian**, but I also speak **English**. I'm **14** and I **love coding**. I started coding with **Java** and then I expanded my coding knowledges. Now, I'm studying **C#** and **Python**.
 
