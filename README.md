@@ -12,5 +12,8 @@ I work at **Nupped Network (Nupped Developing)**. It is a **Minecraft Network**,
 
 Here are more informations about **Nupped Network (Nupped Developing)**:
 
-- Discord Server: 
-- 🌱 I’m currently learning **C#** and **Java**
+- Discord Server: `https://ds.nupped.it/`
+- Telegram Channel: `https://tg.nupped.it/`
+- Website: `https://nupped.it/`
+- Store: `https://store.nupped.it/`
+- Minecraft Server: `mc.nupped.it`
