@@ -1,5 +1,8 @@
 name: Metrics
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   push:
@@ -15,7 +18,10 @@ jobs:
       - name: metrics
         uses: lowlighter/metrics@latest
         with:
+          # GitHub Token
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: skManux
           template: classic
           base: header, repositories
@@ -38,5 +44,3 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_tweets: no
-          plugin_music: no
