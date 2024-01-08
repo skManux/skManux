@@ -20,17 +20,15 @@
   <br/>
   <br/>
   <p>Let&#39;s introduce myself.</p>
-  <p>My real name is <strong>Manuel</strong>. I&#39;m <strong>Italian</strong>, but I also speak <strong>English</strong>. I <strong>love coding</strong>. I started coding with <strong>Java</strong> and then I expanded my coding knowledges. Now, I&#39;m studying <strong>C#</strong> and <strong>Python</strong>.</p>
+  <p>I&#39;m <strong>Italian</strong>, but I also speak <strong>English</strong>. I <strong>love coding</strong>. I started coding with <strong>Java</strong> and then I expanded my coding knowledges. Now, I&#39;m studying <strong>C#</strong> and <strong>Python</strong>.</p>
   <p>Here are some informations about me:</p>
   <ul>
-    <li>🔭 I’m currently working at <strong>SaturnSCP</strong> as <strong>Owner &amp; Head-Dev</strong></li>
+    <li>🔭 I’m currently working at <strong>SpookyRealms</strong> as <strong>Owner &amp; Head-Dev</strong></li>
     <li>🌱 I’m currently learning <strong>C#</strong> and <strong>Java</strong></li>
   </ul>
-  <p>I work at <strong>SaturnSCP</strong>. It is the biggest and the most innovative <strong>SCP:SL Server</strong> in Italy.</p>
-  <p>Here are more informations about <strong>SaturnSCP</strong>:</p>
   <ul>
-    <li>Discord Server: <code>https://ds.saturnscp.it/</code></li>
-    <li>Website: <code>https://saturnscp.it/</code></li>
-    <li>Wiki: <code>https://wiki.saturnscp.it/</code></li>
+    <li>Discord Server: <code>https://ds.spookyrealms.it/</code></li>
+    <li>Website: <code>https://spookyrealms.it/</code></li>
+    <li>Store: <code>https://store.spookyrealms.it/</code></li>
   </ul>
 </div>
