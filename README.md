@@ -25,7 +25,7 @@
 ## 🛠️ Tools
 
 <p align=center>
- <kbd>
+    <kbd>
       <kbd>Operating Sytems</kbd>
       <br>
       <br>
@@ -44,7 +44,7 @@
 	<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 	<a href="https://www.java.com/" target="_blank"><img width="30px" src="https://www.citypng.com/public/uploads/preview/hd-java-coffee-cup-logo-transparent-png-701751694771832kcfdn3tm91.png" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
@@ -53,26 +53,26 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img width="30px" src="https://www.svgrepo.com/download/331488/mongodb.svg" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img width="30px" src="https://www.svgrepo.com/download/331488/mongodb.svg" /></a>
     </kbd>
       <br>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <a href="https://pterodactyl.io/" target="_blank"><img width="30px" src="https://pterodactyl.io/logos/pterry.svg" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+        <a href="https://pterodactyl.io/" target="_blank"><img width="30px" src="https://pterodactyl.io/logos/pterry.svg" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Text editor, IDE, Notebook</kbd>
       <br>
       <br>
-      <a href="https://www.nano-editor.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/GNU-Nano-Logo.png" /></a>
-      <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" /></a>
-      <a href="https://visualstudio.microsoft.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </kbd>
+        <a href="https://www.nano-editor.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/GNU-Nano-Logo.png" /></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" /></a>
+        <a href="https://visualstudio.microsoft.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </kbd>
 </p>
 
 <br/>
