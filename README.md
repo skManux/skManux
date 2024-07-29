@@ -16,7 +16,7 @@
 
 ## ♑ About me
 
-- I'm currently a student at a Professiona School in Veneto, Italy. I'm studying electronics and IT.
+- I'm currently a student at a Professional School in Veneto, Italy. I'm studying electronics and IT.
 
 - I'm interested in machine learning, deep learning, security solutions and AIs.
 
@@ -30,6 +30,7 @@
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" /></a>
+	<a href="https://apple.com" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg" /></a>
         <a href="https://debian.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" /></a>
         <a href="https://archlinux.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" /></a>
 	<a href="https://www.android.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /></a>
