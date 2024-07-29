@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/skManux/skManux/main/assets/github.png" alt="GitHub Logo" height="200">
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+sk_Manux!;I'm+a+Full-Stack+Developer%2C;System+Administrator%2C;and+a+Security+Enthusiast.;I+work+with+Java%2C+Python+%26+C%23%2C+and+I'm;Currently+working+on+various+Discord+Communities." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+sk_Manux!;I'm+a+Full-Stack+Developer%2C;System+Administrator%2C;and+a+Security+Enthusiast.;I+use+Java%2C+Python+%26+C%23%2C+and+I'm;working+on+various+Discord+Communities." alt="Typing SVG" />
 </div>
 
 <p align="center">
