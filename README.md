@@ -23,19 +23,20 @@
 ## `> whoami`
 
 ```yaml
-name        : Manu (skManux)
-location    : Veneto, Italy
-role        : Vocational Student @ Electronics & IT
-occupation  : Apprentice @ Orizon Controls (Home Automation)
+name        : skManux
+location    : Italy
+role        : Student @ Electronics & IT
+occupation  : Developer @ Orizon Controls (Home Automation)
+occupation  : Developer @ EraRoleplay (Innovative FiveM Server)
 interests   :
   - Enterprise Home Automation (KNX · CresNet · Crestron · Distech)
   - Self-hosted Infrastructure (Proxmox · Docker · WireGuard)
   - FiveM Server Development (EraRoleplay)
   - Low-level Systems & Security
-currently_hacking_on:
+currently_working_on:
   - Custom C# modules for Crestron SIMPL# Pro
   - Niagara 4 Java component development
-  - Multi-hop WireGuard VPN chains
+  - An empire of VPNs
   - Go tooling & automation scripts
 ```
 
@@ -47,13 +48,13 @@ currently_hacking_on:
 
 | Layer | Stack |
 |---|---|
-| **Languages** | Java · C# · Lua · Python · Go · C · JavaScript · HTML |
+| **Languages** | Java · C# · Lua · Python · Go · JavaScript · HTML |
 | **Automation** | Crestron SIMPL+ / SIMPL# Pro · KNX DPT · Niagara 4 |
 | **Infra** | Proxmox VE · LXC · Docker · Pterodactyl · Nginx |
 | **Networking** | WireGuard · iptables · Cloudflare · UFW |
 | **Databases** | MySQL · MongoDB · SQLite |
 | **IDEs** | IntelliJ IDEA · Visual Studio · VS Code |
-| **OS** | Debian · Arch Linux · Windows Server · Android |
+| **OS** | Debian · Arch Linux (btw) · Windows (Consumer/Server) · iOS |
 
 </div>
 
